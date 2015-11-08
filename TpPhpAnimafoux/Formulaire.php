@@ -16,7 +16,7 @@
         <legend>Votre Animal Favorie?</legend>
         <input type="radio" name="animal" value="Chien" />Chien<br />
         <input type="radio" name="animal" value="Chat" />Chat<br />
-        <input type="radio" name="animal" value="oiseau" />Wezo<br />
+        <input type="radio" name="animal" value="Oiseau" />Wezo<br />
         <input type="radio" name="animal" value="Serpent" />Serprent<br />
         <input type="radio" name="animal" value="Singe" />Singe<br />
         <input type="submit" value="voter" />
